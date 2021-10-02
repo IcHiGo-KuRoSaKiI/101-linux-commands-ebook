@@ -44,7 +44,7 @@ Sample Output:
 If both `-L` and `-P` options are used, option `L` is taken into priority. If no option is specified at the prompt, pwd will avoid all symlinks, i.e., take option `-P` into account.
 
 ### The Default Consideration
-if no options are given at run-time does `pwd` takes option -P into account or not, automatically.\
+if no options are given at run-time does `pwd` takes option -P into account or not, automatically.  
 
 
 ### Contributed by
