@@ -46,7 +46,7 @@ If both `-L` and `-P` options are used, option `L` is taken into priority. If no
 ### The Default Consideration
 if no options are given at run-time does `pwd` takes option -P into account or not, automatically.
 
-</br>
-</br>
+<br>
+<br>
 ### Contributed by
 [Vedansh Kumar](https://github.com/IcHiGo-KuRoSaKiI)
